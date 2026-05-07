@@ -4,7 +4,10 @@
 The four OOP pillars help organize code and reduce complexity in large projects.
 
 ## Body
-Inheritance shares common behavior, polymorphism allows flexible implementations, abstraction hides details, and encapsulation protects state.
+- Inheritance shares common behavior (Variables & Functions).
+- Polymorphism allows flexible implementations.
+- Abstraction hides details.
+- Encapsulation protects state.
 
 ```ts
 abstract class Shape {
